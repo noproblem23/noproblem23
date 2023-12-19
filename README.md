@@ -12,7 +12,7 @@
   <a href="https://mikejakuszewski.com/assets/resume/Resume-Mike-Jakuszewski.pdf" target="_blank"><img src="https://img.shields.io/badge/-Resume-000?style=for-the-badge&logo=react&logoColor=61dbfb" alt="Resume" title="Resume"/></a>
 </p>
 
-<h1 align="center">👋 I'm Mike Jakuszewski</h1>
+<h1 align="center">👋 I'm Full Stack Developer</h1>
 <h2 align="center"> A motivated and professional software engineer from Canada with an interest in AI.</h2>
 <br>
 <p> I am a full-stack software engineer who is proficient in HTML, CSS, Javascript, Node.js, MongoDB, and React. I work to create excellent, responsive websites that suit the wants and needs of my clients and am eager to solve problems through innovative solutions and collaboration. </p>
