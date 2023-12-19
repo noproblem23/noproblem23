@@ -25,6 +25,9 @@
 
 - 📫 I can be reached at **michael_jakuszewski@hotmail.com** for any question you might have!
 
+
+
+
 - ⚡ Fun fact - **I enjoy traveling and exploring the beauty of nature**. 🌳
 
 <h3 align="left">Connect with me:</h3>
